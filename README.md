@@ -4,7 +4,6 @@
 ## Comandos
 - npx react-create-app: criação do esqueleto da aplicação.
 - npx react-create-app <nome do projeto>: cria uma pasta com o esqueleto da aplicação (node_modules, public, src, etc).
-- code .: abre a pasta no vs code.
 - npm install expo: instala o expo na pasta.
 - npm audit fix: atualiza as bibliotecas necessárias.
 - npx expo install react-native-web: instala a biblioteca para rodar o projeto na web.
