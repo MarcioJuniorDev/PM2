@@ -1,11 +1,14 @@
 # PM2
  Atividades de Programação Mobile 2
 
-## Comandos
-- npx react-create-app: criação do esqueleto da aplicação.
-- npx react-create-app <nome do projeto>: cria uma pasta com o esqueleto da aplicação (node_modules, public, src, etc).
-- npm install expo: instala o expo na pasta.
+## criando novo projeto
+- npx create-expo-app: cria o projeto expo.
+- npm run reset-project: reseta o projeto.
+- apagar pasta 'app-example'
+
+## outros comandos
 - npm audit fix: atualiza as bibliotecas necessárias.
+- - npm install expo: instala o expo na pasta.
 - npx expo install react-native-web: instala a biblioteca para rodar o projeto na web.
 - npx expo start: inicia o projeto.
 
