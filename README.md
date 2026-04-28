@@ -9,9 +9,9 @@
 ## outros comandos
 - npm install: instala o node_modules
 - npm install expo: instala o expo na pasta.
-- npx expo install react-native-web: instala a biblioteca para rodar o projeto na web.
 - npm install expo-sqlite: instala o módulo para usar o sqlite.
 - npm audit fix: atualiza as bibliotecas necessárias.
+- npx expo install react-native-web: instala a biblioteca para rodar o projeto na web.
 - npx expo start: inicia o projeto.
 
 ## Pastas e arquivos padrão
